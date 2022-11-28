@@ -1,4 +1,4 @@
-﻿// Write the number and chec to it to divisible that to 7 and 23
+﻿// Write the number and check to it to divisible that to 7 and 23
 string divisible(int num)
 {
     if (num % 7 == 0 && num % 23 == 0)
