@@ -1,4 +1,4 @@
-﻿// Take point coordinate of x and y that more 0 and show in what quarter is it
+﻿// Take N quarterand show interval of coordinates
 void Quarters(string a)
 {
     if (a == "00")
