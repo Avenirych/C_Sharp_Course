@@ -13,8 +13,8 @@ void Sum(int n)
     int sum = 0;
     while (n > 0)
     {
-        int zifra = n % 10;
-        sum += zifra;
+        int num = n % 10;
+        sum += num;
         n = n / 10; 
     }
 
